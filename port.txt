@@ -1,0 +1,7 @@
+account: 8000
+books: 8011
+shoes: 8012
+clothes: 8013
+cart: 8014
+comment: 8015
+order: 8016
